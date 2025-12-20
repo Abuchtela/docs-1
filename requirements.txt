@@ -3,3 +3,4 @@ mkdocs-awesome-pages-plugin
 mkdocs-video
 mkdocs-redirects
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pymdown-extensions>=10.16.1 # not directly required, pinned by Snyk to avoid a vulnerability
